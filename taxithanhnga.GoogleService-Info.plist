@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527921416650-0js7es7je6ta6jbgqmfg47cmgt7mvad6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk86M7zDRybPGAFp0-DKRY-yEAImEY7GU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527921416650</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emddi.thanhnga</string>
+	<key>PROJECT_ID</key>
+	<string>emddi-8edcd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emddi-8edcd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527921416650:ios:0f6d494a8168c12af7a733</string>
+	<key>DATABASE_URL</key>
+	<string>https://emddi-8edcd.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747735181395",
+    "project_id": "emddi-partner-2024",
+    "storage_bucket": "emddi-partner-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747735181395:android:3f6933bec0fa0fbfbf7ea6",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavZ_mFEny2bfryXnFGazHqTFDqcbncHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

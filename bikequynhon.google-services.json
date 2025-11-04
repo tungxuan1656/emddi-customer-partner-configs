@@ -1,0 +1,663 @@
+{
+  "project_info": {
+    "project_number": "149111265904",
+    "firebase_url": "https://emddi2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "emddi2021",
+    "storage_bucket": "emddi2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:b9c2ec15305ac2eaeef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.driver.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:8f008264d80175d5eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.etaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-2rtjmiqpju8i9uecd2ru3s5j7id9255s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emddi.etaxi",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:b15908d90a23587eeef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.hagiang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:04be54b2e6cc472ceef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.lamson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-vtqo8a0flj9br18jesmdjv8dsgikqle2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emddi.lamson",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:db402939ddbb498beef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.longbien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:939f3354628fe266eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.mailinhnghean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:7e9d7ce7e984bf3feef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.phuthanhdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:0f3e002e4a00a6b3eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.quynhon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:abddf7469d6c3c91eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.taxi858"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:bb0b80887a2ad494eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.taxigroupdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-dg6p387ptneb52q7nb2krjgqe7nsjfrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emddi.taxigroupdriver",
+            "certificate_hash": "f33ebf25d8d9269c331cffb06bf1cfd71f48b6e8"
+          }
+        },
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:99acd0f741e22c1feef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.taxisapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:b84e99e3bd23f316eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.taxithc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:43c95e79d6687e46eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.taxivietphutho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:ac71fe41822aba6beef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.tayninh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-8i5gnaldeojm3f6huv3j0q6fg3oto1i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emddi.tayninh",
+            "certificate_hash": "5b3ded3fa405db9faa97b4c7d68bfd4a43c936f9"
+          }
+        },
+        {
+          "client_id": "149111265904-johlqu0hsf5hlhdrmncjnggcupt2t8pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emddi.tayninh",
+            "certificate_hash": "79d30515e309d5069a6d9ade6a95758134053394"
+          }
+        },
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:e4ee768dba9d8a62eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.xanhdienbien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:165e354291de1cd6eef2b5",
+        "android_client_info": {
+          "package_name": "com.emddi.xuanlong76"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149111265904:android:a2bad0e3d9469346eef2b5",
+        "android_client_info": {
+          "package_name": "com.thc.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Kbb43rEpKtqpcKwws2IwlIJo9oDSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149111265904-kl13jn3srrg5ldgl6imptrhamfiodfhq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149111265904-2ht03ucknpaqqpl2a4aurc9n82ljvdr0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emddi.taxithc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

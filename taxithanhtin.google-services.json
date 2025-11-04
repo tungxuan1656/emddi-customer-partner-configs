@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "392853303893",
+    "project_id": "emddi2024",
+    "storage_bucket": "emddi2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:b5d1d1de0bfa8cb9d29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.customer.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:5fa1e65f32f49e67d29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.customer.uat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:52ce165c5ece171fd29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.phuyen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:f4e2c439308588dbd29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxigianghue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:7f5a97d94f982638d29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxihuonggiang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:bce34cc5e3885729d29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxiquelua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:8278e27b612006f5d29adc",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxithanhtin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392853303893:android:8b0aef3d91d7c515d29adc",
+        "android_client_info": {
+          "package_name": "com.longbien.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-SpZnf4zvw4_oxkf50Zq_WvIZ6q_Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
