@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "607617959552",
+    "project_id": "emddi-software-2025",
+    "storage_bucket": "emddi-software-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:40a8dc87e2a9b06b264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.aidago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:d188b49289684bf9264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.greencartaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:f1a71f8768142541264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.phuyentaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:551b6c4edeb71e3b264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.proship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:7cf5dd1949b1107c264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxidienmanhhung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:20958496959bc20a264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxigrouppro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:969e4fd3cdfc8dc1264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxivpbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:f95edcdcac5beca1264865",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.taxiyenbai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607617959552:android:f81dec28446338b3264865",
+        "android_client_info": {
+          "package_name": "com.emddi.transportexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSfyOe7Erton9ikN8jqUt9HTnNE_drow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
