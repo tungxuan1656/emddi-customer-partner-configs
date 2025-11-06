@@ -1,5 +1,5 @@
 # CONFIG ALL APP
-ENV_NAME=Production
+ENV_NAME=production
 APP_NAME="Taxi Xanh Điện Biên"
 PARTNER_KEY=taxixanhdienbien
 APP_ID_ANDROID=com.emddi.xanhdienbien
