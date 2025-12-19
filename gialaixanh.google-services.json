@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769803398024",
+    "project_id": "emddi-software-2026",
+    "storage_bucket": "emddi-software-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769803398024:android:6d4e0737380e3d6214283d",
+        "android_client_info": {
+          "package_name": "com.emddi.partner.gialaixanh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rlpmrVbH8UNV3VGcdhSBO_XpKwMjedI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
